@@ -16,7 +16,7 @@ cargo build --release
 ```
 
 kompiliert werden.
-Anschließend kann es im Unterordner target/release/ aufgerufen werden.  
+Anschließend kann es im Unterordner *target/release/* aufgerufen werden.  
 Je nachdem, ob man eine neue Notiz anlegen, alle Notizen anzeigen, eine bestehende Notiz bearbeiten oder löschen möchte, ruft man die Anwendung mit einem der folgenden Befehle auf.
 
 ```
